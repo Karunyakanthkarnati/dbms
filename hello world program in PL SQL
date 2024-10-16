@@ -1,0 +1,5 @@
+declare
+	a varchar(50):='hello world';
+begin
+	dbms_output.put_line(a);
+end;
